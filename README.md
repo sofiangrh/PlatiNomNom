@@ -1,2 +1,2 @@
 # PlatiNomNom
-xfwm4 Theme
+Modified version of Mac Classic Platinum for xfwm4
